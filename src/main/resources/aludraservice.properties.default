@@ -1,0 +1,3 @@
+
+org.lodgvideon.hpalm.impl.HpAlmConfiguration=org.lodgvideon.hpalm.impl.HpAlmConfigurationImpl
+org.lodgvideon.hpalm.service.HpAlmService=org.lodgvideon.hpalm.service.impl.HpAlmServiceImpl
